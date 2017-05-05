@@ -2,6 +2,6 @@
 
 https://openai.com/requests-for-research/#cartpole
 
-* Random Search
+* Random Search - Done
 * Hill Climb
 * Gradient
